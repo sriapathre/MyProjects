@@ -1,0 +1,24 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="VSCISExtension.azcis" Version="1.0.0.19" Language="en-US" Publisher="Roman Petrenko" />
+    <DisplayName>Azure Capacity Infrastructure Service Extension</DisplayName>
+    <Description xml:space="preserve">Azure Azure Capacity infrastructure Service extension for Visual Studio. Provides onebox CIS workflow development experience.</Description>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0,17.0)" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+    <Dependency Id="Microsoft.VisualStudio.MPF.15.0" DisplayName="Visual Studio MPF 15.0" Version="[15.0]" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0.26606.0,17.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="VSCISExtension.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="configGallery.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" Path="ProjectTemplates" />
+    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="VSCISExtension.dll" />
+    <Asset Type="Microsoft.VisualStudio.Assembly" Path="VSCISExtension.dll" AssemblyName="VSCISExtension, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c6aebf81d865b02e" />
+  </Assets>
+</PackageManifest>

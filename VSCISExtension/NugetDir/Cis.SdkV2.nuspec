@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Cis.SdkV2</id>
+    <version>22.3.1002</version>
+    <title>Cis.SdkV2</title>
+    <authors>azcisdev</authors>
+    <owners>azcisdev</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Component Integration Service Workflow Dev SdkV2</description>
+    <summary>Cis SdkV2</summary>
+    <copyright>Copyright (c) Microsoft Corporation</copyright>
+    <tags>Cis.SdkV2;_Project:Cis.SdkV2.proj _ProjectDirectoryPath:\Services\rwf\NugetPkgProjects\Cis.SdkV2 _AssemblyName: _OutputType: _User:CBA-0301_030745</tags>
+  </metadata>
+</package>

@@ -1,0 +1,16 @@
+D:\Other Projects\FindReferences\bin\Debug\net5.0\FindReferences.exe
+D:\Other Projects\FindReferences\bin\Debug\net5.0\FindReferences.deps.json
+D:\Other Projects\FindReferences\bin\Debug\net5.0\FindReferences.runtimeconfig.json
+D:\Other Projects\FindReferences\bin\Debug\net5.0\FindReferences.runtimeconfig.dev.json
+D:\Other Projects\FindReferences\bin\Debug\net5.0\FindReferences.dll
+D:\Other Projects\FindReferences\bin\Debug\net5.0\FindReferences.pdb
+D:\Other Projects\FindReferences\obj\Debug\net5.0\FindReferences.csproj.AssemblyReference.cache
+D:\Other Projects\FindReferences\obj\Debug\net5.0\FindReferences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other Projects\FindReferences\obj\Debug\net5.0\FindReferences.AssemblyInfoInputs.cache
+D:\Other Projects\FindReferences\obj\Debug\net5.0\FindReferences.AssemblyInfo.cs
+D:\Other Projects\FindReferences\obj\Debug\net5.0\FindReferences.csproj.CoreCompileInputs.cache
+D:\Other Projects\FindReferences\obj\Debug\net5.0\FindReferences.dll
+D:\Other Projects\FindReferences\obj\Debug\net5.0\refint\FindReferences.dll
+D:\Other Projects\FindReferences\obj\Debug\net5.0\FindReferences.pdb
+D:\Other Projects\FindReferences\obj\Debug\net5.0\FindReferences.genruntimeconfig.cache
+D:\Other Projects\FindReferences\obj\Debug\net5.0\ref\FindReferences.dll
